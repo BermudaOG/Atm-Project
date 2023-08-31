@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atm-project/static/css/main.be59555b.css",
+    "main.js": "/atm-project/static/js/main.bd176e7f.js",
+    "static/js/787.6d37c4e4.chunk.js": "/atm-project/static/js/787.6d37c4e4.chunk.js",
+    "index.html": "/atm-project/index.html",
+    "main.be59555b.css.map": "/atm-project/static/css/main.be59555b.css.map",
+    "main.bd176e7f.js.map": "/atm-project/static/js/main.bd176e7f.js.map",
+    "787.6d37c4e4.chunk.js.map": "/atm-project/static/js/787.6d37c4e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be59555b.css",
+    "static/js/main.bd176e7f.js"
+  ]
+}
